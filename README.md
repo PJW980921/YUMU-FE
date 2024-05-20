@@ -15,7 +15,7 @@
 🔗 <a href="http://43.200.219.117:8080/swagger-ui/index.html#/" target="_blank">YUMU Swagger</a>
 
 # 📆 프로젝트 기간
-## 2024/02/29 ~ 진행 중
+## 2024/02/29 ~ 2024/04/05
 
 # 🛠️ 기술 스택 
 <div class="display:flex; gap:5px;">
