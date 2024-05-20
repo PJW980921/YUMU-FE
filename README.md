@@ -87,10 +87,13 @@
   </div>
 
 <br>
-# 설치 및 시작하기
+
+# 🏁 설치 및 시작하기
+
 ```
 $npm i && npm run dev 이 후 http://localhost:3000/ 접속
 ```
+
 <hr>
 
 # 🎯 담당 페이지 - 내정보(/mypage) 및 기여 부분
