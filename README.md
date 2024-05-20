@@ -86,12 +86,6 @@
   </div>
   </div>
 
-
-
- <br> 
- 
-![Brainstorming](https://github.com/Team-YUMU/YUMU-FE/assets/124119421/d0847179-c65c-4b97-af1b-7cf4c92206dd)
-
 <br>
 
 <hr>
