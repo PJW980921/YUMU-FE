@@ -101,13 +101,12 @@ $npm i && npm run dev 이 후 http://localhost:3000/ 접속
 - CORS 정책 우회 및 토큰관리
 - React-hook-form을 활용한 Input 및 zod를 활용한 정규식 적용 에러메세지 공통 컴포넌트 생성
 - YUMU 마이페이지 UI/UX 구현
-- shadcn/ui 및 Tailwind 사용자 정의를 사용하여 스타일이 지정된 공통 구성 요소
 - 사용자 경험 최적화를 위한 마이페이지 및 헤더 컴포넌트에 tanstack-query 적용
   - 마이페이지 수정 시 헤더의 닉네임 및 프로필 이미지가 즉시 업데이트되도록 설정
   - 낙찰/판매/관심 목록 query를 활용한 무한스크롤 구현
-        - 데이터패칭중일때shadcn/uispinner 컴포넌트활용
+        - 데이터패칭 중 일때shadcn/uispinner 컴포넌트활용
 - 팀 프로젝트 작업 진행 중 공통적인 tailwind className을 위한 prettier,eslint rule 적용
-    - rule 지키지 않을 시 husky lint-staged 를 통해 배포 금지
+    - 위의 rule 지키지 않을 시 pre-commit 방지하기 위해 husky 도입
 ## 협업관련
 - 디자이너/백엔드와 지속적인 소통을 통한 의사소통 경험 역량 향상
 - 프로젝트 진행 중 깔끔한 branch 관리를 위한 squash&merge 활용
