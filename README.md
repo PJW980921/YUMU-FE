@@ -97,6 +97,9 @@ $npm i && npm run dev 이 후 http://localhost:3000/ 접속
 <hr>
 
 # 🎯 담당 페이지 - 내정보(/mypage) 및 기여 부분
+
+<img width="1418" alt="스크린샷 2024-04-25 오전 10 15 05" src="https://github.com/PJW980921/YUMU-FE/assets/124119421/e7994c82-1ab1-4852-94d5-ae66ccaf09a3">
+
 - 디렉토리 구조 및 axios/API 통합을 포함한 초기 프로젝트 설정 확립
 - CORS 정책 우회 및 토큰관리
 - React-hook-form을 활용한 Input 및 zod를 활용한 정규식 적용 에러메세지 공통 컴포넌트 생성
